@@ -1,6 +1,13 @@
-### Hi there 👋
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=apchavan&theme=monokai&show_icons=true&hide=contribs&count_private=true&bg_color=15,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/apchavan/apchavan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apchavan&langs_count=18&hide_progress=true)](https://github.com/apchavan/apchavan)
+
+
 
 <!--
+### Hi there 👋
+
 **apchavan/apchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
