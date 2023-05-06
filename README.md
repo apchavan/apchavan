@@ -3,7 +3,7 @@
 
   ## Hi there! 👋
 
-  I'm a passionate programmer curious about Blockchain Technology & Gaming...
+  I'm a passionate programmer...
 
   ![Profile Views](https://komarev.com/ghpvc/?username=apchavan&color=orange)
 
