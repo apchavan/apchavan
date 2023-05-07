@@ -159,8 +159,8 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apchavan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=monokai&hide_border=true&order=2&custom_title=Programming" height="200" alt="Languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=apchavan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="250" alt="Stats graph" />
-  <img src="https://streak-stats.demolab.com?user=apchavan&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="220" alt="Streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apchavan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="200" alt="Stats graph" />
+  <img src="https://streak-stats.demolab.com?user=apchavan&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="200" alt="Streak graph" />
 
 </div>
 
