@@ -7,16 +7,16 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-002FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apchavan.medium.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-00AFFF?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/apchavan) 
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan) 
 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/apchavan/count.svg?" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apchavan.apchavan&left_color=limegreen&right_color=limegreen&left_text=Profile%20Visitors" />
 </div>
 
 ###
@@ -58,8 +58,8 @@
 
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![C](https://img.shields.io/badge/C-00A8FF?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -70,26 +70,20 @@
 
 <br>
 
-###
-
-<h3 align="left">☁️ Cloud :</h3>
-
-###
+<h3 align="left">☁️ Cloud & ETL :</h3>
 
 <div align="left">
 
-  ![Microsoft Azure](https://img.shields.io/badge/Azure-2050FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-2050FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FF5500?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
 <br>
 
-###
-
 <h3 align="left">💻 Operating System :</h3>
-
-###
 
 <div align="left">
 
@@ -101,27 +95,19 @@
 
 <br>
 
-###
-
 <h3 align="left">🗄️ Database & Storage :</h3>
-
-###
 
 <div align="left">
 
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-  ![MySQL](https://img.shields.io/badge/MySQL-FF6C37?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-0040FF?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 </div>
 
 <br>
 
-###
-
 <h3 align="left">💻 Virtualization :</h3>
-
-###
 
 <div align="left">
 
@@ -132,11 +118,7 @@
 
 <br>
 
-###
-
 <h3 align="left">🚀 Framework & Library :</h3>
-
-###
 
 <div align="left">
 
@@ -152,13 +134,9 @@
 
 <br>
 
-###
-
 <h3 align="left">⚙️ Dev Tools :</h3>
 
-###
-
-<div>
+<div align="left">
 
   ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -171,11 +149,7 @@
 
 <br>
 
-###
-
 <h3 align="left">🔥 My Stats :</h3>
-
-###
 
 <div align="center">
 
@@ -187,26 +161,17 @@
 
 <hr />
 
-###
-
 <h3 align="left">✍🏻 Cool Dev Quote :</h3>
 
-###
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=monokai)
-
-###
 
 <!--
 <h3 align="left">🏆 GitHub Trophies :</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=apchavan&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-###
-
 <h3 align="left">🐦 Latest Tweet :</h3>
 
 [![](https://gtce.itsvg.in/api?username=apchavan&theme=monokai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-###
 -->
