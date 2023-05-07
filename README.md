@@ -16,9 +16,7 @@
 ###
 
 <div align="center">
-
   <img src="https://profile-counter.glitch.me/apchavan/count.svg?" />
-
 </div>
 
 ###
@@ -58,16 +56,19 @@
 
 <div align="left">
 
-  ![Go](https://img.shields.io/badge/Go-00BFFF?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![C](https://img.shields.io/badge/C-00A8FF?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-FF8500?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-2050FF?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
+
+<br>
 
 ###
 
@@ -82,19 +83,23 @@
 
 </div>
 
+<br>
+
 ###
 
-<h3 align="left">💻 OS :</h3>
+<h3 align="left">💻 Operating System :</h3>
 
 ###
 
 <div align="left">
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![macOS](https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
+
+<br>
 
 ###
 
@@ -110,6 +115,8 @@
 
 </div>
 
+<br>
+
 ###
 
 <h3 align="left">💻 Virtualization :</h3>
@@ -123,9 +130,11 @@
 
 </div>
 
+<br>
+
 ###
 
-<h3 align="left">🚀 Frameworks & Library :</h3>
+<h3 align="left">🚀 Framework & Library :</h3>
 
 ###
 
@@ -134,13 +143,14 @@
   ![Docker](https://img.shields.io/badge/docker-00C0FF?style=for-the-badge&logo=docker&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-BF00FF?style=for-the-badge&logo=bootstrap&logoColor=white)
-  
-  ![NumPy](https://img.shields.io/badge/NumPy-2080FF?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-8040FF?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-2080FF?style=for-the-badge&logo=Matplotlib&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-F74F75?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
+
+<br>
 
 ###
 
@@ -153,11 +163,13 @@
   ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-008F00?&style=for-the-badge&logo=vim&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8F00FF?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0080FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-000FFF?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
+
+<br>
 
 ###
 
@@ -177,7 +189,7 @@
 
 ###
 
-<h3 align="left">✍🏻 Random Dev Quote :</h3>
+<h3 align="left">✍🏻 Cool Dev Quote :</h3>
 
 ###
 
