@@ -23,20 +23,29 @@
 
 ###
 
-<h1 align="center">Hey there! 👋</h1>
+<h2 align="center">Hey there! I'm <b>Amey Chavan</b>, from India...👋🏻</h2>
 
 ###
 
-<h3 align="left">👨🏻‍💻 About Me :</h3>
+<h3 align="left">😇 About Me :</h3>
 
 ###
 
-<p align="left">I'm Amey from India...
-  <br>- 🖥️ I'm a passionate programmer.
-  <br>- 👨🏻‍💻 I like to write idiomatic code.
-  <br>- ✅ In my opinion, clear & well documented programs help to extend, understand & maintain in long run.
-  <br>- 👨🏻‍🎓 As a student mindset, I like to grow tech knowledge by self learning, reading & researching.
-
+<p align="left">
+  <ul>
+    <li>
+      🖥️ I'm a passionate programmer.
+    </li>
+    <li>
+      👨🏻‍💻 I like to write idiomatic code.
+    </li>
+    <li>
+      ✅ In my opinion, clear & well documented programs help to extend, understand & maintain in long run.
+    </li>
+    <li>
+      👨🏻‍🎓 As a student mindset, I like to grow tech knowledge by self learning, reading & researching.
+    </li>
+  </ul>
 </p>
 
 <hr />
