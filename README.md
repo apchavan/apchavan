@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=apchavan.apchavan&left_color=orangered&right_color=forestgreen&left_text=Profile%20Visits" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apchavan.apchavan&left_text=Profile%20Visits" />
 </div>
 
 <h2 align="center">Hey there! I'm <b>Amey Chavan</b>, from India...👋🏻</h2>
