@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
+  <img height="300" src="./coding_1.gif" />
 </div>
 
 ###
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apchavan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=monokai&hide_border=true&order=2&custom_title=Programming" height="250" alt="Languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apchavan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=15&theme=monokai&hide_border=true&order=2&custom_title=Programming" height="200" alt="Languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=apchavan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="250" alt="Stats graph" />
   <img src="https://streak-stats.demolab.com?user=apchavan&locale=en&mode=weekly&theme=monokai&hide_border=true&border_radius=5&order=3" height="220" alt="Streak graph" />
 
