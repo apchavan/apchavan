@@ -1,9 +1,7 @@
 
 <div align="center">
-  <img height="300" src="./coding_1.gif" />
+  <img height="300px" src="./coding_1.gif" />
 </div>
-
-###
 
 <div align="center">
 
@@ -13,21 +11,13 @@
 
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=apchavan.apchavan&left_color=limegreen&right_color=limegreen&left_text=Profile%20Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apchavan.apchavan&left_color=orangered&right_color=forestgreen&left_text=Profile%20Visits" />
 </div>
-
-###
 
 <h2 align="center">Hey there! I'm <b>Amey Chavan</b>, from India...👋🏻</h2>
 
-###
-
 <h3 align="left">😇 About Me :</h3>
-
-###
 
 <p align="left">
   <ul>
@@ -48,11 +38,7 @@
 
 <hr />
 
-###
-
 <h3 align="left">🛠 Programming :</h3>
-
-###
 
 <div align="left">
 
@@ -95,7 +81,7 @@
 
 <br>
 
-<h3 align="left">🗄️ Database & Storage :</h3>
+<h3 align="left">🗄️ Storage :</h3>
 
 <div align="left">
 
@@ -161,7 +147,7 @@
 
 <hr />
 
-<h3 align="left">✍🏻 Cool Dev Quote :</h3>
+<h3 align="left">✍🏻 Nice Dev Quote :</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=monokai)
 
