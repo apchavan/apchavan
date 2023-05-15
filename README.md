@@ -56,7 +56,7 @@
 
 <br>
 
-<h3 align="left">☁️ Cloud & ETL :</h3>
+<h3 align="left">☁️ Cloud & Data ETL :</h3>
 
 <div align="left">
 
