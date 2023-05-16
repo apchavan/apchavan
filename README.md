@@ -56,15 +56,24 @@
 
 <br>
 
-<h3 align="left">☁️ Cloud & Data ETL :</h3>
+<h3 align="left">☁️ Cloud :</h3>
 
 <div align="left">
 
   ![Azure](https://img.shields.io/badge/Azure-2050FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FF5500?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+<br>
+
+<h3 align="left">🗃️ Data Extract, Transform & Load :</h3>
+
+<div align="left">
+
   ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-  ![Logstash](https://img.shields.io/badge/Logstash-000000?style=for-the-badge&logo=Logstash&logoColor=white)
+  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white)
 
 </div>
 
