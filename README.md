@@ -25,10 +25,10 @@
       🖥️ I'm a passionate programmer.
     </li>
     <li>
-      👨🏻‍💻 I like to write idiomatic code.
+      👨🏻‍💻 I like to write idiomatic code while programming.
     </li>
     <li>
-      ✅ In my opinion, clear & well documented programs help to extend, understand & maintain in long run.
+      ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
     </li>
     <li>
       👨🏻‍🎓 As a student mindset, I like to grow tech knowledge by self learning, reading & researching.
