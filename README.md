@@ -22,16 +22,19 @@
 <p align="left">
   <ul>
     <li>
-      🖥️ I'm a passionate programmer.
-    </li>
-    <li>
-      👨🏻‍💻 I like to write idiomatic code while programming.
+      🖥️ I'm a passionate programmer who likes to write idiomatic code.
     </li>
     <li>
       ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
     </li>
     <li>
-      👨🏻‍🎓 As a student mindset, I like to grow tech knowledge by self learning, reading & researching.
+      👨🏻‍💻 Currently, I'm working on <a href="https://github.com/apchavan/go-youtube-downloader">Go YouTube Downloader</a> - a CLI app written in Golang to download YouTube videos!
+    </li>
+    <li>
+      🤔 Technologies like Blockchain, Peer-to-Peer communications, and high-quality games always make me curious.
+    </li>
+    <li>
+      👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching.
     </li>
   </ul>
 </p>
