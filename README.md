@@ -38,7 +38,7 @@
 
 <hr />
 
-<h3 align="left">🛠 Programming :</h3>
+<h3 align="left">🛠 Coding :</h3>
 
 <div align="left">
 
