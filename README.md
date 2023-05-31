@@ -82,7 +82,7 @@
 
 <br>
 
-<h3 align="left">💻 Operating System :</h3>
+<h3 align="left">💻 Operating Systems :</h3>
 
 <div align="left">
 
@@ -139,6 +139,7 @@
 
   ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   ![Vim](https://img.shields.io/badge/VIM-008F00?&style=for-the-badge&logo=vim&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
