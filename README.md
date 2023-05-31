@@ -28,7 +28,7 @@
       ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
     </li>
     <li>
-      👨🏻‍💻 Currently, I'm working on <a href="https://github.com/apchavan/go-youtube-downloader">Go YouTube Downloader</a> - a CLI app written in Golang to download YouTube Shorts/Videos!
+      👨🏻‍💻 Currently, I'm working on <a href="https://github.com/apchavan/go-youtube-downloader">Go YouTube Downloader</a> - a CLI app written in Golang to download YouTube Shorts & Videos!
     </li>
     <li>
       🤔 Technologies like Blockchain, Peer-to-Peer communications, and high-quality games always make me curious.
