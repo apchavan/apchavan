@@ -51,6 +51,7 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![C#.NET](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-FF8500?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-2050FF?style=for-the-badge&logo=css3&logoColor=white)
 
