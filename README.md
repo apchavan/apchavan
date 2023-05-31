@@ -53,7 +53,6 @@
   ![Shell Script](https://img.shields.io/badge/Shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-FF8500?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-2050FF?style=for-the-badge&logo=css3&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -143,6 +142,7 @@
   ![Vim](https://img.shields.io/badge/VIM-008F00?&style=for-the-badge&logo=vim&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-000FFF?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
