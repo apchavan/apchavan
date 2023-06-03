@@ -133,7 +133,7 @@
 
 <br>
 
-<h3 align="left">⚙️ Dev Tools :</h3>
+<h3 align="left">⚙️ Other Dev Tools :</h3>
 
 <div align="left">
 
