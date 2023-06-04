@@ -31,7 +31,7 @@
       👨🏻‍💻 Check my recent project <a href="https://github.com/apchavan/go-youtube-downloader">Go YouTube Downloader</a> - a terminal based app (written in Go) to download YouTube Shorts & Videos!
     </li>
     <li>
-      🤔 Technologies like Blockchain, Peer-to-Peer communications, and high-quality games always make me curious.
+      🤔 Technologies like Cloud, Blockchains, Peer-to-Peer Network Communications, and High-quality Games always make me curious.
     </li>
     <li>
       👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching.
@@ -41,7 +41,7 @@
 
 <hr />
 
-<h3 align="left">🛠 Coding :</h3>
+<h3 align="left">🛠 Programming :</h3>
 
 <div align="left">
 
