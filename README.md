@@ -110,9 +110,9 @@
 
 <div align="left">
 
+  ![Docker](https://img.shields.io/badge/docker-00C0FF?style=for-the-badge&logo=docker&logoColor=white)
   ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-00C0FF?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
