@@ -94,7 +94,7 @@
 
 <br>
 
-<h3 align="left">🗄️ Storage :</h3>
+<h3 align="left">🗄️ Search Engine & Storage :</h3>
 
 <div align="left">
 
