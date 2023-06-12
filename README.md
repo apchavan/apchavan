@@ -28,7 +28,7 @@
       ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
     </li>
     <li>
-      👨🏻‍💻 Check pinned projects below to know about my recent activity.
+      📌 Check pinned projects below to know about my recent dev activity.
     </li>
     <li>
       🤔 Technologies like Cloud, Blockchains, Peer-to-Peer Network Communications, and High-quality Games always make me curious!
