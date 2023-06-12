@@ -28,13 +28,13 @@
       ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
     </li>
     <li>
-      👨🏻‍💻 Check my recent project <a href="https://github.com/apchavan/go-youtube-downloader">Go YouTube Downloader</a> - a terminal based app (written in Go) to download YouTube Shorts & Videos!
+      👨🏻‍💻 Check pinned projects below to know about my recent activity.
     </li>
     <li>
-      🤔 Technologies like Cloud, Blockchains, Peer-to-Peer Network Communications, and High-quality Games always make me curious.
+      🤔 Technologies like Cloud, Blockchains, Peer-to-Peer Network Communications, and High-quality Games always make me curious!
     </li>
     <li>
-      👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching.
+      👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching...
     </li>
   </ul>
 </p>
