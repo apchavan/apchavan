@@ -31,7 +31,7 @@
       📌 Check pinned projects below to know about my recent dev activity.
     </li>
     <li>
-      🤔 Technologies like Cloud, Blockchains, Peer-to-Peer Network Communications, and High-quality Games always make me curious!
+      🤔 Technologies like Blockchains, Peer-to-Peer Network Communications, Cloud & High-quality Games always make me curious!
     </li>
     <li>
       👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching...
