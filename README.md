@@ -25,13 +25,10 @@
       🖥️ I'm a passionate programmer who likes to write idiomatic, clear & well documented programs.
     </li>
     <li>
-      ⚒️ I'm looking to contribute in domain of Blockchains, Peer-to-Peer Network Communications & High-quality Games...
+      ⚒️ My interests belong to writing Performant/robust core application logic, explore Blockchains, Peer-to-Peer network communications, High-quality games etc...
     </li>
     <li>
-      📌 Check pinned projects below to know about my recent dev activity.
-    </li>
-    <li>
-      👨🏻‍🎓 I always like to grow tech knowledge by finding, reading & researching...
+      📌 Check pinned projects below since I always like to grow tech knowledge by doing online read & research...
     </li>
   </ul>
 </p>
