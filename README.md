@@ -22,19 +22,16 @@
 <p align="left">
   <ul>
     <li>
-      🖥️ I'm a passionate programmer who likes to write idiomatic code.
+      🖥️ I'm a passionate programmer who likes to write idiomatic, clear & well documented programs.
     </li>
     <li>
-      ✅ I strongly believe writing clear & well documented programs help to extend, understand & maintain in long run.
+      ⚒️ I'm looking to contribute in domain of Blockchains, Peer-to-Peer Network Communications & High-quality Games...
     </li>
     <li>
       📌 Check pinned projects below to know about my recent dev activity.
     </li>
     <li>
-      🤔 Technologies like Blockchains, Peer-to-Peer Network Communications, Cloud & High-quality Games always make me curious!
-    </li>
-    <li>
-      👨🏻‍🎓 I always like to grow tech knowledge by self learning, reading & researching...
+      👨🏻‍🎓 I always like to grow tech knowledge by finding, reading & researching...
     </li>
   </ul>
 </p>
