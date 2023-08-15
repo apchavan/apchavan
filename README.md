@@ -59,6 +59,7 @@
 | Max Payne 2: The Fall of Max Payne | A third-person shooter game by Remedy Entertainment & Rockstar Games. | TPS |
 | Call of Duty: Modern Warfare 2 | First-person shooter game by Infinity Ward & Activision. | FPS |
 | Call of Duty: Modern Warfare 3 | First-person shooter game by Infinity Ward & Activision. | FPS |
+| Need for Speed: Hot Pursuit | Open world racing game by Electronic Arts. | Racing |
 | Need for Speed: Most Wanted | Open world racing game by Electronic Arts. | Racing |
 | Grand Theft Auto: Vice City | Action-adventure game by Rockstar Games. | RPG |
 | Grand Theft Auto: San Andreas | Action-adventure game by Rockstar Games. | RPG |
