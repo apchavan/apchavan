@@ -71,6 +71,7 @@
 | Rocket League Sideswipe | Official adaptation of Rocket League for mobile. | E-Sports |
 | The Last of US Part I | Action-adventure game by Naughty Dog & Sony Interactive Entertainment. | RPG |
 | The Witcher 3: Wild Hunt | Action role-playing game by CD Projekt. | RPG |
+| Red Dead Redemption 2 | Action-adventure game by Rockstar Games. | RPG |
 
 </div>
 
