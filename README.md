@@ -16,7 +16,7 @@
 
 <p align="left">
  
-- Having a wide background in computer science & software engineering, I'm a passionate about programming, gaming & [**`Unreal Engine`**](https://www.unrealengine.com/)...
+- I have a major background in computer science, with great passion for programming, gaming & [**`Unreal Engine`**](https://www.unrealengine.com/)...
 
 - My tech tools include :
 
