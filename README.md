@@ -15,20 +15,20 @@
 <h2 align="left">😎 About me</h2>
 
 <p align="left">
-
-- Despite having wide background in programming & software enginnering; I'm passionate about gaming & game development with [**`Unreal Engine`**](https://www.unrealengine.com/)...
+ 
+- Having a wide background in computer science & software engineering, I'm a passionate about programming, gaming & [**`Unreal Engine`**](https://www.unrealengine.com/)...
 
 - My primary tech tools include :
 
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-- On YouTube, I share some of game dev clips :
+- On YouTube, I share some of game dev experiments :
 
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AmeysGameLab)
 
@@ -85,7 +85,7 @@
 
 </div>
 
-<h2 align="left">⚒️ Other technologies I worked with :</h2>
+<h2 align="left">⚒️ I also worked with :</h2>
 
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
