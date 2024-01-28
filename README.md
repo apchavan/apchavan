@@ -16,7 +16,7 @@
 
 <p align="left">
 
-- I have a major background in computer science, with deep passion for programming, and gaming...
+- I'm a Software Engineer having major background in computer science with passion for programming, and gaming...
 
 - My programming tech stack/tools :
 
