@@ -12,39 +12,39 @@
 
 <h1 align="center">Hi there! I'm <b>Amey Chavan</b>, from India...👋🏻</h1>
 
-<h2 align="left">😎 About me</h2>
+<h2 align="left">😎 About me :</h2>
 
 <p align="left">
- 
+
 - I have a major background in computer science, with deep passion for programming, and gaming...
 
-- My tech stack/tools :
+- My programming tech stack/tools :
 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/Shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![C#.NET](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-FF8500?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-2050FF?style=for-the-badge&logo=css3&logoColor=white)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=git&logoColor=white)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-2050FF?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FF5500?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-00C0FF?style=for-the-badge&logo=docker&logoColor=white)
   ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
@@ -65,7 +65,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AmeysGameLab)
-  <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apchavan.medium.com) -->
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apchavan.medium.com)
 
 </p>
 
