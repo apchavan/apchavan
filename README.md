@@ -16,9 +16,9 @@
 
 <p align="left">
  
-- I have a major background in computer science, with great passion for programming, gaming & [**`Unreal Engine`**](https://www.unrealengine.com/)...
+- I have a major background in computer science, with deep passion for programming, and gaming...
 
-- My tech tools include :
+- My tech stack/tools :
 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,9 +27,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-- I also worked with :
-
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,19 +60,30 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-000FFF?style=for-the-badge&logo=confluence&logoColor=white)
 
-- On YouTube, I share some of my game dev experiments :
-
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AmeysGameLab)
-
-- Connect with me on :
+- My other profiles :
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan) 
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AmeysGameLab)
   <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apchavan.medium.com) -->
 
 </p>
 
-<h2 align="left">🎮 Games I played 🕹️</h2>
+<h2 align="left">🔥 My GitHub stats :</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apchavan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=monokai&order=2&custom_title=Programming%20Stats" height="200" alt="Languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apchavan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&order=1&custom_title=Amey's%20Profile%20Stats" height="200" alt="Stats graph" />
+  <img src="https://streak-stats.demolab.com?user=apchavan&locale=en&mode=weekly&theme=monokai&border_radius=5&order=3" height="200" alt="Streak graph" />
+
+</div>
+
+<h2 align="left">✍🏻 Some dev-quote :</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
+
+<h2 align="left">🎮 My gameplays :</h2>
 
 <div align="center">
 
@@ -109,20 +117,6 @@
 | Red Dead Redemption 2 | Action-adventure game by Rockstar Games. | RPG |
 
 </div>
-
-<h2 align="left">🔥 GitHub stats :</h2>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apchavan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=monokai&order=2&custom_title=Programming%20Stats" height="200" alt="Languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=apchavan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&order=1&custom_title=Amey's%20Profile%20Stats" height="200" alt="Stats graph" />
-  <img src="https://streak-stats.demolab.com?user=apchavan&locale=en&mode=weekly&theme=monokai&border_radius=5&order=3" height="200" alt="Streak graph" />
-
-</div>
-
-<h2 align="left">✍🏻 Some dev-quote :</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
 <!--
 <h3 align="left">🏆 GitHub Trophies :</h3>
