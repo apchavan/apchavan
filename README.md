@@ -16,7 +16,7 @@
 
 <p align="left">
 
-- I'm a Software Engineer having major background in computer science with passion for programming, gaming and Web3...
+- I'm a Full-Stack Software Engineer and fan of gaming...
 
 - My programming tech stack/tools :
 
