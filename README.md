@@ -16,9 +16,11 @@
 
 <p align="left">
 
-- I'm a Full-Stack Software Engineer and fan of gaming...
+- I'm a full-stack software engineer.
 
-- My programming tech stack/tools :
+- I like to delve into games, branding, and business.
+
+- I worked with following tech stack/tools :
 
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -64,7 +66,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-000FFF?style=for-the-badge&logo=confluence&logoColor=white)
 
-- My other profiles :
+- My other online profiles :
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan)
