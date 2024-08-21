@@ -66,11 +66,11 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-000FFF?style=for-the-badge&logo=confluence&logoColor=white)
 
-- My other online profiles :
+- My social profiles :
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apchavan)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/apchavan)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AmeysDevLab)
+  [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/apchavan)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RealAmeyChavan)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://apchavan.medium.com)
 
 </p>
