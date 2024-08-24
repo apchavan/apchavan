@@ -18,7 +18,7 @@
 
 - I'm a full-stack software engineer.
 
-- I like to delve into games, branding, and business.
+- I'm building my brand with games!
 
 - I worked with following tech stack/tools :
 
