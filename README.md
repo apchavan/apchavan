@@ -89,7 +89,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
-<h2 align="left">🎮 My gameplays :</h2>
+<h2 align="left">🎮 So far, I've played following game titles :</h2>
 
 <div align="center">
 
@@ -121,6 +121,7 @@
 | The Last of US Part I | Action-adventure game by Naughty Dog & Sony Interactive Entertainment. | RPG |
 | The Witcher 3: Wild Hunt | Action role-playing game by CD Projekt. | RPG |
 | Red Dead Redemption 2 | Action-adventure game by Rockstar Games. | RPG |
+| Assassin's Creed Valhalla | Action role-playing game by Ubisoft released in 2020. | RPG |
 
 </div>
 
